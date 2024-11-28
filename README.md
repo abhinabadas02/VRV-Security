@@ -9,6 +9,8 @@ Step 4= Open the Postman and call the API's of Registration,login,getall,getbyid
 The Changes i made is that i just use ID to search the profiles when login because i saw more that 5 or 6 source code where they use email or username to find an profile but i uses the most perfect way to find the profiles because in 100 it is possible that two persons have same email or username but the ID is not same.
 Also the security is too strong to break and also the role based access which is mentioned in the assignment i clearly give the access to the admin,moderator and user differently so that user can't access the admin or moderator type access.
 
+For Every User,Admin or Moderator the password is 123 and also make sure that when you are registering a new user u must write th role in CAPS.
+
 
 <----------------------------------------------------------+++++++++++++++++++++++------------------------------------------------------------------------------->
 
