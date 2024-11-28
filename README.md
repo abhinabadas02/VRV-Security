@@ -3,7 +3,7 @@ Developed an Backend Using Springboot for Authentication,Authorization and Role 
 Java version=21
 Step 1= Open any Compiler(e.g= Visual Studio Code(version:1.95.3) or InteliJ Idea(version:17.0.10+8-b1207.12 amd64))
 Step 2= For the first time Debug the Main file after that the Tomcat Server will start in 8065. Make sure that the 8065 server is free none other application is running.
-Step 3= Open MySQL Workbench 8.0(Version: 8.0.36) and just import the table that is attched with the file.
+Step 3= Open MySQL Workbench 8.0(Version: 8.0.36) and just import the whole Schema that is attched with the file. File name is SQL Table.
 Step 4= Open the Postman and call the API's of Registration,login,getall,getbyid etc and make sure after login to an profile copy the Token and after that go to Headers in the PostMan and select Authorization and paste the token on the next row followed by the Authorization and add (Bearer) on the beginning and after that call API for checking the role based access.
 
 The Changes i made is that i just use ID to search the profiles when login because i saw more that 5 or 6 source code where they use email or username to find an profile but i uses the most perfect way to find the profiles because in 100 it is possible that two persons have same email or username but the ID is not same.
