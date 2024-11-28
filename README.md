@@ -23,8 +23,10 @@ LOGIN API CALL.
 
 
 
+
 ACCESS CHECK OF GETALL API CALL USING THE TOKEN(Remember to use the Bearer and Authorization type in Header).
 ![Screenshot (23)](https://github.com/user-attachments/assets/2578b5d6-e67e-4501-9db1-87b264f4e17a)
+
 
 
 
@@ -34,5 +36,39 @@ ACCESS CHECK OF GETBYID API CALL USING THE TOKEN.
 
 
 
+LOGIN TO AN USER TYPE ROLE.
+![Screenshot (25)](https://github.com/user-attachments/assets/349dbdb6-4f3d-485f-8285-9e6903806dd1)
 
 
+
+
+
+CHECKING ACCESS IF THE USER CAN FETCH GETALL API BUT FAILED BECAUSE THE ROLE ACCESS IS ONLY GIVEN TO ADMIN AND MODERATOR.
+![Screenshot (26)](https://github.com/user-attachments/assets/582836b6-5100-470e-a9ee-4c3743e8520b)
+
+
+
+
+
+LOGING IN MODERATOR TYPE ROLE.
+![Screenshot (27)](https://github.com/user-attachments/assets/ff34d803-f43b-45f3-9f9e-55e6d8cd05f0)
+
+
+
+
+
+CALLING GETALL API TO CHECK IF THE ACCESS IS WORKING OR NOT.
+![Screenshot (28)](https://github.com/user-attachments/assets/f12c09d7-357b-4ab6-82e5-b51142c2f351)
+
+
+
+
+CALLING UPDATE USING ID API FOR THE MODERATOR ROLE BUT THE ACCESS IS ONLY GIVEN TO ADMIN TYPE ROLE.
+![Screenshot (29)](https://github.com/user-attachments/assets/750fc334-9e5c-4f87-949e-4798edf01493)
+
+
+
+
+<----------------------------------------------------------+++++++++++++++++++++++------------------------------------------------------------------------------->
+
+THANK YOU IF YOU HAVE ANY DOUBT CONTACT ME ON 8910285278 or abhinabadas02@gmail.com.
